@@ -209,52 +209,10 @@ Since you're unemployed 🫠: put **"Successfully exited Vim (2026)"** as an acc
 
 ## 🕵️ The Forgotten Way
 
-<details><summary><h3>uhhh howd u find this....there's nothing to see here.</h3></summary>
-<details><summary><h3>UHHH...u can safely tun back now:D</h3></summary>
-<details><summary><h3>ummm u can go now. yes.</h3></summary>
-<details><summary><h3>stop. what are u doing??</h3></summary>
-<details><summary><h3>stop it!</h3></summary>
-<details><summary><h3>hey its not funny!</h3></summary>
-<details><summary><h3>tada!. theres nothing here.</h3></summary>
-<details><summary><h3>uhh why are u still here?</h3></summary>
-<details><summary><h3>its finished. bye.</h3></summary>
-<details><summary><h3>ok fr this time.</h3></summary>
-<details><summary><h3>the end.</h3></summary>
-<details><summary><h3>....</h3></summary>
-<details><summary><h3>dont. </h3></summary>
-<details><summary><h3>dont u dare</h3></summary>
-<details><summary><h3>im warning u</h3></summary>
-<details><summary><h3>actually idk what to do</h3></summary>
-<details><summary><h3>PLS STOPPP</h3></summary>
-<details><summary><h3>DONT DO IT.</h3></summary>
-<details><summary><h3>DONT YOU DARE DO IT.</h3></summary>
-<details><summary><h3>DO NOT CLICK ANOTHER DROPDOWN.</h3></summary>
-<details><summary><h3>u know what.</h3></summary>
-<details><summary><h3>i give up.</h3></summary>
-<img width="1280" height="720" alt="what-u-have-forgotten" src="https://github.com/user-attachments/assets/3d9e1948-620a-46af-95cc-95b61bb48a13" />
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
-</details>
+<details><summary><h4>u definitely DID NOT saw this section before. DEFINITELY.</h4></summary>
+
+[note to self: do not forget to delete this link on github](https://github.com/IMOitself/how-to-exit-vim/tree/e4d3a9423c3c3e913a6b3d622f4c27c179946659#%EF%B8%8F-the-forgotten-way)
+
 </details>
 
 ---
