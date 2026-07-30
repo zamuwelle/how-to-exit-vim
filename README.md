@@ -33,6 +33,7 @@
 - [☢️ The Nuclear Option](#️-the-nuclear-option)
 - [🧘 The It's Not Loss If You Never Had It Way](#-the-its-not-loss-if-you-never-had-it-way)
 - [💼 The Resume Way](#-the-resume-way)
+- [🕵️ The Forgotten Way](#%EF%B8%8F-the-forgotten-way)
 
 ---
 
@@ -203,6 +204,16 @@ Vim, the terminal, the OS, and your unsaved changes from the last four hours all
 ## 💼 The Resume Way
 
 Since you're unemployed 🫠: put **"Successfully exited Vim (2026)"** as an accomplishment on LinkedIn under Skills. Recruiters will not understand it, but engineers will know you've suffered, and that's basically the whole hiring bar these days.
+
+---
+
+## 🕵️ The Forgotten Way
+
+<details><summary><h4>u definitely DID NOT saw this section before. DEFINITELY.</h4></summary>
+
+[note to self: do not forget to delete this link on github](https://github.com/IMOitself/how-to-exit-vim/tree/e4d3a9423c3c3e913a6b3d622f4c27c179946659#%EF%B8%8F-the-forgotten-way)
+
+</details>
 
 ---
 
