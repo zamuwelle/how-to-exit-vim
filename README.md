@@ -211,7 +211,7 @@ Since you're unemployed 🫠: put **"Successfully exited Vim (2026)"** as an acc
 
 <details><summary><h4>u definitely DID NOT saw this section before. DEFINITELY.</h4></summary>
 
-[note to self: do not forget to delete this link on github](https://github.com/IMOitself/how-to-exit-vim/tree/e4d3a9423c3c3e913a6b3d622f4c27c179946659#%EF%B8%8F-the-forgotten-way)
+[???](https://github.com/zamuwelle/how-to-exit-vim/tree/e4d3a9423c3c3e913a6b3d622f4c27c179946659#%EF%B8%8F-the-forgotten-way)
 
 </details>
 
